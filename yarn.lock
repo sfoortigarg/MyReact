@@ -4321,6 +4321,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cross-fetch@npm:^3.0.6":
+  version: 3.0.6
+  resolution: "cross-fetch@npm:3.0.6"
+  dependencies:
+    node-fetch: 2.6.1
+  checksum: a491ad1b89988a351f8b8b252b68a5e653636d911042648c43a806cf7575ff043379a80d6269102ca60ec633af0b49ca4c83536007793bb0e65e491769f70d9d
+  languageName: node
+  linkType: hard
+
 "cross-spawn@npm:7.0.1":
   version: 7.0.1
   resolution: "cross-spawn@npm:7.0.1"
@@ -9251,6 +9260,7 @@ fsevents@^1.2.7:
     "@testing-library/user-event": ^7.1.2
     bootstrap: ^4.5.2
     bootstrap-social: ^5.1.1
+    cross-fetch: ^3.0.6
     font-awesome: ^4.7.0
     logger: ^0.0.1
     react: ^16.13.1
@@ -9350,6 +9360,13 @@ fsevents@^1.2.7:
     lower-case: ^2.0.1
     tslib: ^1.10.0
   checksum: 619e0bd00a3ef0fa6ad9442d32c88adcf47339c5b0d9bdfaaab19380709dad5ba71f865ae584531988ba85a6083e1f0ea0b851bcc49c67aee40a5100104e84b9
+  languageName: node
+  linkType: hard
+
+"node-fetch@npm:2.6.1":
+  version: 2.6.1
+  resolution: "node-fetch@npm:2.6.1"
+  checksum: cbb171635e538162b977eac5dfe7a1e07a9a02e991924377a6435502291e2f823d306b95aabc455caebf4a118ccf836868462bc70ccc3095af02bb9da61fda37
   languageName: node
   linkType: hard
 
